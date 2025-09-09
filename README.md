@@ -116,7 +116,7 @@ npm start
 ![Control panel](assets/ControlPanel.png)
 
 **Task Assignment**  
-![Tasks](assets/tasks.png)
+![Tasks](assets/Tasks.png)
 
 ---
 
